@@ -7,7 +7,7 @@
     - ##### 무한 스크롤 코드 웹 검색 
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/7ebeaf0e-165b-4858-b27f-26e75fa562da)
     - ##### 카운트 기능, 랜덤 기능 수정함 
-      ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/b4474780-2634-4cc3-84e2-2c929c8e4048)
+      ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/eda02752-e0c6-4947-af8f-ee1dc01b9e9c)
     - ##### 키워드에 한문이 포함되어 있을 경우 euc-kr 로 저장시 에러 발생
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/3b544d83-fa9f-4558-8f7d-38b7ed88f928)
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/609e884b-8a31-43aa-84af-a3c4acb9619c)
