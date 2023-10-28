@@ -12,7 +12,11 @@
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/3b544d83-fa9f-4558-8f7d-38b7ed88f928)
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/609e884b-8a31-43aa-84af-a3c4acb9619c)
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/465191c4-c2a4-419c-8627-ad0fddd80d79)
-
+### 10/24 Crawling 알고리즘 완성 
+### 10/25 Linux Server 설치 완료 
+### 10/26 Crawling 완료 : 약25만건
+### 10/27 Web Server 설치 완료 : apache, flask 동시 구동 
+### 10/28 DB 설치완료 : mysql / 수업자료 배포 연습 중 : MessageSystem 
 
       
 
