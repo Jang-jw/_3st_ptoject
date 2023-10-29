@@ -16,7 +16,8 @@
 ### 10/25 Linux Server 설치 완료 
 ### 10/26 Crawling 완료 : 약25만건
 ### 10/27 Web Server 설치 완료 : apache, flask 동시 구동 
-### 10/28 DB 설치완료 : mysql / 수업자료 배포 연습 중 : MessageSystem 
+### 10/28 DB 설치완료 : mysql / 수업자료 배포 연습 : MessageSystem 
+### 10/29 Apache Tomcat 설치 완료 
 
       
 
