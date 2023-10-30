@@ -20,7 +20,8 @@
 ### 10/29 Apache Tomcat 설치 완료 
   - #### Spring Boot Project 배포 확인 
   - #### 수업자료 Server 배포 완료 (Message System)
-      
+### 10/30 템플릿 9개 배포 완료 
+
 
 
 
