@@ -13,16 +13,30 @@
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/609e884b-8a31-43aa-84af-a3c4acb9619c)
       ##### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/465191c4-c2a4-419c-8627-ad0fddd80d79)
 ### 10/24 Crawling 알고리즘 완성 
+### <img width="859" alt="_03_Project_19" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/6cb33ae9-2c98-4861-b5a1-87a5c295d25d">
+### ![_03_Project_13](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/2411d158-8c46-4d2e-b849-5ae89f98b71c)
 ### 10/25 Linux Server 설치 완료 
+### <img width="1001" alt="_03_Project_18" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/386d8403-759e-4c43-8491-f30f2bfbe6a4">
 ### 10/26 Crawling 완료 : 약25만건
+### <img width="1294" alt="_03_Project_12" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/78a23f69-6f5a-4c3d-92d2-93473af1777c">
 ### 10/27 Web Server 설치 완료 : apache, flask 동시 구동 
+### <img width="1065" alt="_03_Project_20" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/45783f34-28ea-457e-b151-8223494535f2">
+### <img width="1119" alt="_03_Project_21" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/8a7f8485-5b0a-4f64-8bac-8782cb176067">
 ### 10/28 DB 설치완료 : mysql / 수업자료 배포 연습 : MessageSystem 
+### <img width="1092" alt="_03_Project_22" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/26cce864-1f1c-4d91-81b8-8177839fc253">
 ### 10/29 Apache Tomcat 설치 완료 
+### <img width="1295" alt="_03_Project_23" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/ea074cbc-2532-4390-bb6a-b5156cf72595">
   - #### Spring Boot Project 배포 확인 
   - #### 수업자료 Server 배포 완료 (Message System)
+  - ### <img width="998" alt="_03_Project_09" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/4725a447-9232-4c8c-b8c7-e4637dd24cbe">
 ### 10/30 템플릿 9개 배포 완료 
+### <img width="665" alt="_03_Project_24" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1820d459-f3b6-4d5c-94b9-66ceecc2dec1">
 ### 10/31 DB	크롤링 자료 DB 입력 알고리즘 완성 / 크롤링 테이블 268,755 건 입력 완료
+### <img width="492" alt="_03_Project_14" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/0de1bdba-01c5-480d-b86d-44eb9e642dac">
 ### 11/01 BackEnd DB 연동 완료 / 프로젝트 초안 페이지 완성 
+### <img width="982" alt="_03_Project_25" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/9691007d-f755-4617-85a1-2f545baf8984">
+### 11/02 자연어 처리 알고리즘 완성
+### <img width="1152" alt="_03_Project_17" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/e4ea9a86-603d-4690-86d0-d2b3f468a19f">
 
 
 
