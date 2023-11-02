@@ -34,7 +34,12 @@
 ### <img width="1294" alt="_03_Project_12" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/78a23f69-6f5a-4c3d-92d2-93473af1777c">
 ### <img width="492" alt="_03_Project_14" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/0de1bdba-01c5-480d-b86d-44eb9e642dac">
 ### 11/01 BackEnd DB 연동 완료 / 프로젝트 초안 페이지 완성 
-### <img width="982" alt="_03_Project_25" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/9691007d-f755-4617-85a1-2f545baf8984">
+  - ### Controller
+  - ### <img width="537" alt="_03_Project_26" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/24fc6732-6d99-481d-a238-233a96a095a0">
+  - ### HTML
+  - ### <img width="441" alt="_03_Project_27" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1d8e1ddb-e931-49b2-aa3b-4ba6a2ed4039">
+  - ### Main Page
+  - ### <img width="982" alt="_03_Project_25" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/9691007d-f755-4617-85a1-2f545baf8984">
 ### 11/02 자연어 처리 알고리즘 완성
 ### <img width="1152" alt="_03_Project_17" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/e4ea9a86-603d-4690-86d0-d2b3f468a19f">
 
