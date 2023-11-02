@@ -41,7 +41,7 @@
   - ### Main Page
   - ### <img width="982" alt="_03_Project_25" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/9691007d-f755-4617-85a1-2f545baf8984">
 ### 11/02 자연어 처리 알고리즘 완성
-### <img width="1152" alt="_03_Project_17" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/e4ea9a86-603d-4690-86d0-d2b3f468a19f">
-
+  - ### <img width="630" alt="_03_Project_29" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/70d543ef-7ed7-4e26-8fc3-1529ad9db354">
+  - ### 
 
 
