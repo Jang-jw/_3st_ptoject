@@ -47,8 +47,13 @@
 ### 11/02 자연어 처리 알고리즘 완성
   - #### Code
   - #### <img width="630" alt="_03_Project_29" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/70d543ef-7ed7-4e26-8fc3-1529ad9db354">
+  - #### Word Cloud
+  - #### ![_03_Project_30](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1aeb5201-4e87-40d4-89b9-5ec6f16ae479)
+  - #### Word Cloud Korea
+  - #### ![_03_Project_31](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/7e0923f2-b317-4528-803e-d4246354df5f)
   - #### 빈도수 차트
-  - #### ![image](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/70d7d20a-9b51-437c-843c-9878e2d1b6fe)
+  - #### ![_03_Project_32](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/70bc4fa7-5f56-44be-a698-fdaf830b6bd1)
+
 
 
 
