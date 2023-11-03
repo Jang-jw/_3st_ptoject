@@ -38,6 +38,8 @@
   - #### mysql
   - #### <img width="492" alt="_03_Project_14" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/0de1bdba-01c5-480d-b86d-44eb9e642dac">
 ### 11/01 BackEnd DB 연동 완료 / 프로젝트 초안 페이지 완성 
+  - #### entity
+  - #### <img width="800" alt="_03_Project_34" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1a01bdaa-d988-49c5-b2b4-99055e17f0df">
   - #### Controller
   - #### <img width="537" alt="_03_Project_26" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/24fc6732-6d99-481d-a238-233a96a095a0">
   - #### HTML
