@@ -33,8 +33,10 @@
 ### 10/30 템플릿 9개 배포 완료 
 ### <img width="665" alt="_03_Project_24" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1820d459-f3b6-4d5c-94b9-66ceecc2dec1">
 ### 10/31 DB	크롤링 자료 DB 입력 알고리즘 완성 / 크롤링 테이블 268,755 건 입력 완료
-### <img width="1294" alt="_03_Project_12" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/78a23f69-6f5a-4c3d-92d2-93473af1777c">
-### <img width="492" alt="_03_Project_14" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/0de1bdba-01c5-480d-b86d-44eb9e642dac">
+- #### Insert Code
+  - ### <img width="1294" alt="_03_Project_12" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/78a23f69-6f5a-4c3d-92d2-93473af1777c">
+  - #### mysql
+  - #### <img width="492" alt="_03_Project_14" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/0de1bdba-01c5-480d-b86d-44eb9e642dac">
 ### 11/01 BackEnd DB 연동 완료 / 프로젝트 초안 페이지 완성 
   - #### Controller
   - #### <img width="537" alt="_03_Project_26" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/24fc6732-6d99-481d-a238-233a96a095a0">
