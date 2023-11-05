@@ -33,7 +33,7 @@
 ### 10/30 템플릿 9개 배포 완료 
 ### <img width="665" alt="_03_Project_24" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1820d459-f3b6-4d5c-94b9-66ceecc2dec1">
 ### 10/31 DB	크롤링 자료 DB 입력 알고리즘 완성 / 크롤링 테이블 268,755 건 입력 완료
-- #### Insert Code
+- #### Insert
   - ### <img width="1294" alt="_03_Project_12" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/78a23f69-6f5a-4c3d-92d2-93473af1777c">
   - #### mysql
   - #### <img width="492" alt="_03_Project_14" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/0de1bdba-01c5-480d-b86d-44eb9e642dac">
@@ -42,10 +42,12 @@
   - #### <img width="800" alt="_03_Project_34" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1a01bdaa-d988-49c5-b2b4-99055e17f0df">
   - #### Controller
   - #### <img width="537" alt="_03_Project_26" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/24fc6732-6d99-481d-a238-233a96a095a0">
+  - #### Repository
+  - #### <img width="678" alt="_03_Project_34" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/767e2baa-de79-49f1-8d53-ead251e64c39">
   - #### HTML
-  - #### <img width="441" alt="_03_Project_27" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/1d8e1ddb-e931-49b2-aa3b-4ba6a2ed4039">
+  - #### <img width="593" alt="_03_Project_27" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/043810ea-e8c0-4099-8f42-0c8e7249c5e4">
   - #### Main Page
-  - #### <img width="982" alt="_03_Project_25" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/9691007d-f755-4617-85a1-2f545baf8984">
+  - #### <img width="1180" alt="_03_Project_35" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/3a0ad63d-9864-4083-a10b-ad9b23c29cf7">
 ### 11/02 자연어 처리 알고리즘 완성
   - #### Code
   - #### <img width="630" alt="_03_Project_29" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/70d543ef-7ed7-4e26-8fc3-1529ad9db354">
@@ -55,6 +57,11 @@
   - #### ![_03_Project_31](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/7e0923f2-b317-4528-803e-d4246354df5f)
   - #### 빈도수 차트
   - #### ![_03_Project_32](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/70bc4fa7-5f56-44be-a698-fdaf830b6bd1)
+### 11/03 자연어 처리 테이블 완성 / 로그인 구현 / 
+  - #### <img width="767" alt="_03_Project_37" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/28b86152-bc8e-48ef-9add-402e373f7fc2">
+### 11/04 메인화면 구성 
+  - #### HTML 
+  - #### <img width="546" alt="_03_Project_38" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/d8a8b83b-7c6b-4e98-8f4d-124414bcf5a4">
 
 
 
