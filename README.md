@@ -62,6 +62,14 @@
 ### 11/04 메인화면 구성 
   - #### HTML 
   - #### <img width="546" alt="_03_Project_38" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/d8a8b83b-7c6b-4e98-8f4d-124414bcf5a4">
+### 11/06 크롤링 서버 자동 연결 완료 
+### <img width="705" alt="_03_Project_39" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/6fb0dacb-4bd4-43df-a261-3f75f7ac6217">
+### 11/07 크롤링 데이터 DB 자동 저장 완료 
+  - #### jupyter notebook
+  - #### ![_03_Project_40](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/890b8e26-0c54-4308-9360-f6d9602f1845)
+  - #### DB
+  - #### <img width="540" alt="_03_Project_41" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/30a06bb0-d4f8-4b72-a0c8-2bfc459d28f6">
+
 
 
 
