@@ -69,6 +69,10 @@
   - #### ![_03_Project_40](https://github.com/Jang-jw/_3st_ptoject/assets/134268098/890b8e26-0c54-4308-9360-f6d9602f1845)
   - #### DB
   - #### <img width="540" alt="_03_Project_41" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/30a06bb0-d4f8-4b72-a0c8-2bfc459d28f6">
+### 11/09 최종본 배포 완료 
+  - #### 시간 부족으로 너무 아쉬움...
+  - #### <img width="1180" alt="_03_Project_42" src="https://github.com/Jang-jw/_3st_ptoject/assets/134268098/8a32af4b-8f6e-4833-9d44-b73fb39e8bfa">
+
 
 
 
