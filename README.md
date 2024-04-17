@@ -1,4 +1,5 @@
 # _3st_ptoject
+# 코드는 아직 다 올리지 못했습니다. 여기 올려진 코드는 초기에 올린 미완성본 입니다. 
 ### 10/20 : 크롤링 사이트 답사 
 ### 10/21 : 크롤링 코드 작성 (twitter, instagram, branch)
   - ##### twitter, instagram 은 크롤링이 막혀있음
